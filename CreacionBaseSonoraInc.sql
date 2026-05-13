@@ -1,4 +1,7 @@
 
+use master 
+go 
+	
 create database SonoraInc
 go
 
