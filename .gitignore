@@ -1,1 +1,3 @@
-Pruebasp_crud_artista.sql
+# Archivos de entorno
+.env
+.env.local
